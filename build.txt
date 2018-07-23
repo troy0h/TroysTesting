@@ -1,0 +1,3 @@
+author = troy0h
+version = 0.11
+displayName = Troy's Testing
