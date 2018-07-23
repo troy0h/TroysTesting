@@ -1,1 +1,3 @@
 Adds some stuff my friends wanted me to add
+
+The homepage is a link to the mod files on GitHub

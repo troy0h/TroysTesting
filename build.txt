@@ -1,3 +1,4 @@
 author = troy0h
-version = 0.12
+version = 0.13
 displayName = Troy's Testing
+homepage = https://github.com/troy0h/TroysTesting/releases
